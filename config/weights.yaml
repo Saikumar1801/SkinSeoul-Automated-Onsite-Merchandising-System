@@ -1,0 +1,15 @@
+scoring_weights:
+  sales_velocity: 0.4
+  profit_margin: 0.3
+  brand_tier: 0.2
+  engagement: 0.1
+
+brand_tier_weights:
+  A: 1.0
+  B: 0.7
+  C: 0.4
+
+filters:
+  min_stock: 10
+  max_inventory_days: 50
+top_n_products: 10
