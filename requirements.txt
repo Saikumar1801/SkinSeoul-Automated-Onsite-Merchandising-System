@@ -1,0 +1,10 @@
+pandas
+numpy
+fastapi
+uvicorn
+python-multipart
+pyyaml
+scikit-learn
+prefect
+pytest
+python-dotenv
